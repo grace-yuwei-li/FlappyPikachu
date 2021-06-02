@@ -1,6 +1,8 @@
 # flappy_pikachu
 
 A new Flutter project.
+PikaChu in flutter. originally written in java with android studio
+
 
 ## Getting Started
 
