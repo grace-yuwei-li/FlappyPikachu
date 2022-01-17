@@ -1,4 +1,5 @@
 # flappy_pikachu
 
-A new Flutter project.
-FlappyPikachu in Flutter. Originally written in java with android studio
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/683157382737559596/932538251082862642/unknown.png?width=720&height=476" width="350" title="hover text">
+</p>
